@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTooltip", "WPFTooltip.csproj", "{ABDBE897-F7C4-4788-9BAF-FD912BCF4E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDBE897-F7C4-4788-9BAF-FD912BCF4E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDBE897-F7C4-4788-9BAF-FD912BCF4E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDBE897-F7C4-4788-9BAF-FD912BCF4E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDBE897-F7C4-4788-9BAF-FD912BCF4E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C043D7FE-AB8E-4EAB-B3E4-F67D844098D5}
+	EndGlobalSection
+EndGlobal
